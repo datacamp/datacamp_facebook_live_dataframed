@@ -3,7 +3,7 @@
 **If you're planning to code along, make sure to clone, download, or re-pull this repository on the morning of Thursday February 22rd. All edits will be completed by end of day ET Wednesday February 21st.**
 
 
-# Facebool Live Code Along: A DataFramed special
+# Facebook Live Code Along: A DataFramed special
 DataCamp Facebook Live Code Along Session 4: Learn techniques that guests on the DataFramed podcast say are their favorite. Enjoy!
 
 
